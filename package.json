@@ -1,0 +1,19 @@
+{
+  "name": "coffeerun",
+  "version": "1.0.0",
+  "description": "for coffee run project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ai Chan Tran",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.32.0",
+    "@typescript-eslint/parser": "^4.32.0",
+    "eslint": "^7.32.0"
+  },
+  "dependencies": {
+    "firebase": "^9.1.3"
+  }
+}
